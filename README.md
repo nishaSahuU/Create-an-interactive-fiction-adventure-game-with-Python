@@ -1,11 +1,11 @@
-# Create-an-interactive-fiction-adventure-game-with-Python
-Learning Objectives 
-▪Set up Python environment.
-▪Import modules, interact with the system, display text.
-▪Create a character sheet with functions, users input and variables.
-▪Add character skills performing operations on variables. 
-▪Modify skills with random function (virtual die roll). 
-▪Create functions to add story scenes and a choice mechanism. 
-▪Perform a skill check with a virtual die roll. 
-▪Develop a combat system and run an encounter with a monster. 
-▪Compile Python for Windows and create an exe file.
+#3 Create-an-interactive-fiction-adventure-game-with-Python
+#Learning Objectives 
+<p>▪Set up Python environment.</p>
+<p>▪Import modules, interact with the system, display text.</p>
+<p>▪Create a character sheet with functions, users input and variables.</p>
+<p>▪Add character skills performing operations on variables. </p>
+<p>▪Modify skills with random function (virtual die roll). </p>
+<p>▪Create functions to add story scenes and a choice mechanism. </p>
+<p>▪Perform a skill check with a virtual die roll. </p>
+<p>▪Develop a combat system and run an encounter with a monster. </p>
+<p>▪Compile Python for Windows and create an exe file.</p>
